@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aika</h1>
 <h3 align="center">A passionate Software Developer Live in Stockholm</h3>
 
- <img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fcute-girl-work-with-her-laptop-cup-coffee_629619-120.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Foffice-people-smiling%2F12&tbnid=wDIq8-TphVaKfM&vet=12ahUKEwiZ0qTY8LL8AhWj-yoKHQX7CJoQMygbegUIARCJAg..i&docid=NR5EF-XiEB-F9M&w=2000&h=2000&itg=1&q=animated%20cute%20coding%20girl&hl=en&ved=2ahUKEwiZ0qTY8LL8AhWj-yoKHQX7CJoQMygbegUIARCJAg](https://www.google.com/imgres?imgurl=https%3A%2F%2Faweleacademy.com%2Fwp-content%2Fuploads%2F2016%2F03%2Fgiphy-2.gif&imgrefurl=https%3A%2F%2Faweleacademy.com%2F2016%2F03%2F07%2F5-reasons-to-learn-to-code-in-2016%2F&tbnid=aa7Me1nphRt4JM&vet=12ahUKEwjnoYyk9bL8AhXkAxAIHUfSA6AQMyhMegQIARB-..i&docid=NKnR5tWFQMlxAM&w=500&h=245&q=animated%20image%20for%20programmer%20girls&hl=en&ved=2ahUKEwjnoYyk9bL8AhXkAxAIHUfSA6AQMyhMegQIARB-)">
+ <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc8.alamy.com%2Fcomp%2FKH9XAP%2Fcute-student-girl-working-with-computer-KH9XAP.jpg&imgrefurl=https%3A%2F%2Fwww.alamy.com%2Fstock-image-cute-student-girl-working-with-computer-165560718.html&tbnid=kZX73ZXuzDIylM&vet=12ahUKEwiZ0qTY8LL8AhWj-yoKHQX7CJoQMygOegUIARDmAQ..i&docid=_q06-kIMzyVIfM&w=1179&h=1390&q=animated%20cute%20coding%20girl&hl=en&ved=2ahUKEwiZ0qTY8LL8AhWj-yoKHQX7CJoQMygOegUIARDmAQ">
 
 - 📫 How to reach me **https://www.linkedin.com/in/aika-k-75548246/**
 
