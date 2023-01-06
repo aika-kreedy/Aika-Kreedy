@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aika</h1>
 <h3 align="center">A passionate Software Developer Live in Stockholm</h3>
 
- <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc8.alamy.com%2Fcomp%2FKH9XAP%2Fcute-student-girl-working-with-computer-KH9XAP.jpg&imgrefurl=https%3A%2F%2Fwww.alamy.com%2Fstock-image-cute-student-girl-working-with-computer-165560718.html&tbnid=kZX73ZXuzDIylM&vet=12ahUKEwiZ0qTY8LL8AhWj-yoKHQX7CJoQMygOegUIARDmAQ..i&docid=_q06-kIMzyVIfM&w=1179&h=1390&q=animated%20cute%20coding%20girl&hl=en&ved=2ahUKEwiZ0qTY8LL8AhWj-yoKHQX7CJoQMygOegUIARDmAQ">
+ <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-_aQx-nFdnI1zchguFn_dkksGh_j6aimH-Q&usqp=CAU">
 
 - 📫 How to reach me **https://www.linkedin.com/in/aika-k-75548246/**
 
