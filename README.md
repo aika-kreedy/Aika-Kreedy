@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]
+![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Aika</h1>
 <h3 align="center">A passionate Software Developer Live in Stockholm</h3>
-<h4 align="center"  >🤝I Am Open To Work With All Especially Web Apps Projects Or Things I Have Yet To Learn.</h4>
+<h3 align="center"  >🤝I Am Open To Work With All Especially Web Apps Projects Or Things I Have Yet To Learn.</h3>
 
  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966">
 
