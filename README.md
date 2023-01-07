@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdMtu78PyPLxHb0u7tTN8HAAw7EbI7WeRlQ&usqp=CAU)] 
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYECGxY8pYZwdaE4BlKspxwRJAwyiPfgBnQ&usqp=CAU)] 
 <h1 align="center">Hi 👋, I'm Aika</h1>
 <h3 align="center">A passionate Software Developer Live in Stockholm</h3>
 
