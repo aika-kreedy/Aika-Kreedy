@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFi0REoAXyBv2J7QMGrfpxDWV4ws1Yj72SA&usqp=CAU)] 
+<div align="center">[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFi0REoAXyBv2J7QMGrfpxDWV4ws1Yj72SA&usqp=CAU)]/<div>
 <h1 align="center">Hi 👋, I'm Aika</h1>
 <h3 align="center">A passionate Software Developer Live in Stockholm</h3>
 
