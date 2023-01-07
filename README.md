@@ -1,4 +1,4 @@
-[![MasterHead](https://guardian.ng/wp-content/uploads/2018/08/Queen-Cleopatra.-Photo-Medium-e1535557523173.jpeg)] 
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFdMtu78PyPLxHb0u7tTN8HAAw7EbI7WeRlQ&usqp=CAU)] 
 <h1 align="center">Hi 👋, I'm Aika</h1>
 <h3 align="center">A passionate Software Developer Live in Stockholm</h3>
 
